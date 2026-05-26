@@ -24,11 +24,11 @@ Machine Learning and AI Engineer with strong expertise in Data Engineering, Data
 - **Project A:**  Building a sales forecasting model in Python.
 - **Project B:**  Creating an interactive marketing dashboard in Power BI.
 - - **Project B:**  Creating an House Price Prediction.
-- - **Project B:**  Creating an Movie Recommendation System.
-   - - **Project B:**  Creating an Student Score Predictor.
-     - - - **Project B:**  Weather Data Pipeline.
-              - - - **Project B:**  Data Pipelines.
-                  - - - - **Project B:**  Data Warehouse Project.
+- **Project B:**  Creating a Movie Recommendation System.
+- **Project B:**  Creating a Student Score Predictor.
+- **Project B:**  Weather Data Pipeline.
+- **Project B:**  Data Pipelines.
+- **Project B:**  Data Warehouse Project.
 
 
 ## 🌱 Currently Learning 
