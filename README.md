@@ -6,11 +6,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Engineer+%7C+Machine+Learning;Turning+Data+into+Actionable+Insights;Data+Analysis;AI+Engineer" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!-- 🔗 Social Media & Contact Links -->
 <p align="center">
-  <a href="[https://linkedin.com/in/your-profile-url(https://www.linkedin.com/in/philip-chaplin-53040012b/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="philip9chaplin@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/philip-chaplin-53040012b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/your-channel-url">
+    <img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube" alt="YouTube">
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:philip9chaplin@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+
 </p>
 
 ## 🚀 About Me 
