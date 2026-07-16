@@ -1,102 +1,238 @@
 ## Hi there, I'm Philip Chaplin 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Engineer+%7C+Machine+Learning;Turning+Data+into+Actionable+Insights;Data+Analysis;AI+Engineer" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Data+Scientist+%7C+Data+Engineer;Building+AI+Solutions+with+Data;Turning+Data+into+Intelligent+Systems" alt="Typing SVG" />
+
 </div>
 
+
 <!-- 🔗 Social Media & Contact Links -->
+
 <p align="center">
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/philip-chaplin-53040012b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
 
-  <!-- YouTube -->
-  <a href="https://youtube.com/your-channel-url">
-    <img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube" alt="YouTube">
-  </a>
+<a href="https://www.linkedin.com/in/philip-chaplin-53040012b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-  <!-- Email -->
-  <a href="mailto:philip9chaplin@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+<a href="https://youtube.com/your-channel-url">
+<img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="mailto:philip9chaplin@hotmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+</a>
 
 </p>
 
-## 🚀 About Me 
-Machine Learning and AI Engineer with strong expertise in Data Engineering, Data Analytics, and experience in building scalable ETL and real-time data pipelines, developing machine learning models, and delivering end-to-end AI-driven solutions that transform raw data into actionable business insights.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://guitarc123/)
-      
-## 🔭 What I'm Currently Working On 
+# 🚀 About Me
 
-- **Project A:**  Building a sales forecasting model in Python.
-- **Project B:**  Creating an interactive marketing dashboard in Power BI.
-- **Project B:**  Creating a House Price Prediction.
-- **Project B:**  Creating a Movie Recommendation System.
-- **Project B:**  Creating a Student Score Predictor.
-- **Project B:**  Weather Data Pipeline.
-- **Project B:**  Data Pipelines.
-- **Project B:**  Data Warehouse Project.
+AI Engineer and Data Scientist specialising in **Machine Learning, Artificial Intelligence, Data Engineering, and Cloud Technologies**.
 
+I build end-to-end AI solutions by combining:
 
-## 🌱 Currently Learning 
+- Data Engineering pipelines
+- Machine Learning models
+- Artificial Intelligence applications
+- Data Analytics
+- Cloud platforms
+- Data visualisation
 
-- machine learning models
-- Data models
+My focus is transforming raw data into **intelligent systems, predictive models, and actionable business insights**.
 
-## 🛠️ Technical Skillset
+I enjoy building projects around:
 
-•	Data Engineer / Data Analyst: Developed Azure Data Factory pipelines; monitored and automated model pipelines; transformed and cleaned data in Power BI with Power Query; created basic Power BI reports; and cleaned string data in Python.
-
-•	Pipelines: Built and deployed an ETL pipeline with Python featuring logging and monitoring; architected Kafka-to-Snowflake real-time ingestion.
-
-•	Machine Learning: Built and deployed machine learning models; trained models; monitored and automated model pipelines; and built ML pipelines using the Azure SDK.
+🤖 AI Applications  
+📊 Data Science  
+🧠 Machine Learning Models  
+☁️ Cloud AI Solutions  
+📈 Business Intelligence  
 
 
-#### Machine Learning
+### 🏆 Portfolio
+
+[Check Out My Full Portfolio Website](https://guitarc123/)
+
+
+---
+
+# 🔭 Current Projects
+
+### 🤖 Artificial Intelligence Projects
+
+- AI Chatbot using LLM models
+- AI Assistant using Python and APIs
+- Document Intelligence System
+- Recommendation Systems
+
+
+### 🧠 Machine Learning Projects
+
+- House Price Prediction Model
+- Movie Recommendation System
+- Student Performance Predictor
+- Sales Forecasting Model
+- Weather Prediction Model
+- Customer Prediction Models
+
+
+### 📊 Data Science Projects
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Feature Engineering
+- Statistical Analysis
+- Predictive Analytics
+- Data Visualisation Dashboards
+
+
+### ⚙️ Data Engineering Projects
+
+- ETL Data Pipelines using Python
+- Data Warehouse Architecture
+- Real-Time Data Streaming with Kafka
+- Cloud Data Platforms
+- Automated Data Processing Pipelines
+
+
+---
+
+# 🌱 Currently Learning
+
+- Deep Learning
+- Large Language Models (LLMs)
+- Generative AI
+- MLOps
+- Model Deployment
+- Azure Machine Learning
+- AWS AI Services
+- Data Modelling
+- Advanced Machine Learning Algorithms
+
+
+---
+
+# 🛠️ Technical Skills
+
+
+## 🤖 Artificial Intelligence & Machine Learning
+
 <p>
 
-  <!-- Machine Learning -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning Badge">
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white">
 
- <!-- Data Engineering -->
-  <img src="https://img.shields.io/badge/Data%20Engineering-005571?style=flat&logo=apache-spark&logoColor=white" alt="Data Engineering Badge">
+<img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=flat&logo=scikit-learn">
 
-  <!-- PyTorch -->
-  <img src="https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch Badge">
+<img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-red?style=flat&logo=pytorch">
 
-  <!-- Power BI -->
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-black?style=flat&logo=openai">
 
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=flat&logo=python&logoColor=white" alt="Data Science Badge">
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=flat">
 
-  <!-- AI -->
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=flat&logo=openai&logoColor=white" alt="AI Badge">
 </p>
-  
 
 
-#### Data Analysis & Visualization
+
+## 📊 Data Science & Analytics
+
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=flat&logo=pandas">
+
+<img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?style=flat&logo=numpy">
+
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat&logo=powerbi">
+
+<img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat&logo=tableau">
+
 </p>
 
 
 
-#### Business Intelligence & Analytics
+## ⚙️ Data Engineering
+
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql">
+
+<img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=flat&logo=apachespark">
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-Streaming-black?style=flat&logo=apachekafka">
+
+<img src="https://img.shields.io/badge/Airflow-ETL-blue?style=flat&logo=apacheairflow">
+
+<img src="https://img.shields.io/badge/Data%20Warehouse-Architecture-green?style=flat">
+
 </p>
+
+
+
+## ☁️ Cloud & MLOps
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws">
+
+<img src="https://img.shields.io/badge/Azure-Cloud-blue?style=flat&logo=microsoftazure">
+
+<img src="https://img.shields.io/badge/Docker-Containers-blue?style=flat&logo=docker">
+
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat&logo=kubernetes">
+
+<img src="https://img.shields.io/badge/Terraform-Infrastructure-purple?style=flat&logo=terraform">
+
+</p>
+
+
+---
+
+# 🧩 AI & Data Engineering Experience
+
+
+### Machine Learning Engineer
+
+- Developed predictive machine learning models using Python.
+- Performed data preprocessing and feature engineering.
+- Trained, evaluated and improved ML algorithms.
+- Built ML pipelines for automated model workflows.
+
+
+### AI Engineer
+
+- Developing AI applications using Python.
+- Working with Large Language Models (LLMs).
+- Building intelligent automation solutions.
+- Creating AI-powered applications.
+
+
+### Data Engineer
+
+- Designed ETL pipelines for data processing.
+- Built data ingestion workflows.
+- Worked with SQL databases and data warehouses.
+- Automated data transformation processes.
+
+
+### Data Scientist
+
+- Analysed complex datasets.
+- Created predictive analytics solutions.
+- Developed data visualisations.
+- Extracted insights to support business decisions.
+
+
+---
+
+# 📌 Featured Projects
+
+🚀 AI Chatbot Platform  
+🧠 Machine Learning Prediction Models  
+📊 Business Intelligence Dashboards  
+⚙️ Automated Data Pipelines  
+☁️ Cloud Data Platform  
+🏢 Data Warehouse Solution  
+
+
+---
+
+⭐ Always learning, building, and exploring the future of AI, Data Science, and Machine Learning.
