@@ -1,4 +1,4 @@
-## Hi there, I'm Philip Chaplin 👋
+## Hi there, I'm Philip  👋
 
 <div align="center">
 
