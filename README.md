@@ -64,3 +64,43 @@
 <img src="https://img.shields.io/badge/Amazon%20Redshift-Data%20Warehouse-8C4FFF?style=flat&logo=amazonaws">
 
 </p>
+
+
+
+🧩 Data Engineering Experience
+Data Engineer
+Build and develop ETL / ELT data pipelines.
+Ingest data from multiple sources.
+Clean, transform and validate datasets.
+Design relational database structures.
+Develop SQL queries for data transformation and analysis.
+Build data warehouse solutions.
+Automate data processing workflows.
+Use Apache Airflow for workflow orchestration.
+Work with PostgreSQL, MySQL, SQLite, Snowflake and Amazon Redshift.
+Develop Docker-based data engineering environments.
+Prepare analytics-ready datasets for reporting and machine learning.
+Data Analyst
+Analyse structured and unstructured datasets.
+Perform data cleaning and transformation.
+Develop SQL queries and analytical datasets.
+Identify trends and patterns within data.
+Build dashboards and visualisations.
+Produce actionable business insights.
+Data Scientist
+Prepare datasets for machine learning.
+Perform exploratory data analysis.
+Develop predictive models.
+Apply feature engineering techniques.
+Evaluate machine learning models.
+Transform data into predictive insights.
+📌 Featured Projects
+
+🚀 End-to-End Data Pipeline
+Build automated data ingestion, transformation and processing pipelines.
+
+⚙️ Apache Airflow Data Platform
+Orchestrate automated data workflows using Airflow and PostgreSQL.
+
+🗄️ Data Warehouse Solution
+Design and build a scalable analytical data warehouse.
